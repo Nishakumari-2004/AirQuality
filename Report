@@ -1,181 +1,131 @@
-REPORT: 
+🌍 Air Quality and Meteorological Variables Report
 
- 
+📑 Introduction
 
-The World Meteorological Organization (WMO) collaborates with various international organizations, including the World Health Organization (WHO), to set guidelines and standards for air quality, including permissible levels of different meteorological variables such as 'PM2.5 (µg/m³)'  ,'PM10 (µg/m³)' ,'NO (µg/m³)' ,'NO2 (µg/m³)' ,'NH3 (µg/m³)'  ,'SO2 (µg/m³)' ,'CO (mg/m³)' ,'Ozone (µg/m³)' ,'MP-Xylene (µg/m³)' ,'AT (°C)' ,'RH (%)' ,’NOx (ppb)’. 
+The World Meteorological Organization (WMO) collaborates with the World Health Organization (WHO) and other international bodies to establish guidelines for air quality. These guidelines define permissible concentration levels for pollutants such as:
 
- 
+PM2.5 (µg/m³)
+PM10 (µg/m³)
+NO (µg/m³)
+NO₂ (µg/m³)
+NH₃ (µg/m³)
+SO₂ (µg/m³)
+CO (mg/m³)
+Ozone (µg/m³)
+MP-Xylene (µg/m³)
+AT (°C)
+RH (%)
+NOx (ppb)
 
-PM2.5 (particulate matter with a diameter of less than 2.5 micrometres) 
 
-WHO Air Quality Guidelines for PM2.5 
+🧪 Pollutant-Wise Analysis
 
-Annual Mean: 
+1.PM2.5 (Particulate Matter < 2.5 µm)
+WHO Guidelines:
+Annual Mean: 5 µg/m³
+24-Hour Mean: 15 µg/m³
+Dataset Average: 35.21 µg/m³
 
-WHO Guideline Value: 5 µg/m³ 
-
-24-Hour Mean: 
-
-WHO Guideline Value: 15 µg/m³ 
-
-The annual average according to our dataset is 35.21 µg/m³ which is higher than the what is set according to WHO. 
-
- 
-
-PM10 (particulate matter with a diameter of 10 micrometres or less) 
-
-WHO Air Quality Guidelines for PM2.5 
-
-Annual Mean: 
-
-WHO Guideline Value: 15 µg/m³ 
-
-24-Hour Mean: 
-
-WHO Guideline Value: 45 µg/m³ 
-
- 
-
-The annual average according to our dataset is 63.6 µg/m³ which is higher than the what is set according to WHO. 
-
- 
-
-NO2 (Nitrogen Dioxide) 
-
-WHO Air Quality Guidelines for NO2 
-
-Annual Mean: 
-
-WHO Guideline Value: 10 µg/m³ 
-
-1 Hour Mean: 
-
-WHO Guideline Value: 200 µg/m³ 
-
- 
-
-The annual average according to our dataset is 6-10 µg/m³ which is higher than the what is set according to WHO. 
-
- 
-
-NH3 (Ammonia) 
-
-The WHO does not have specific guidelines for ambient ammonia concentrations in its air quality guidelines. 
-
-OSHA's (Occupational Safety and Health Administration (OSHA)) permissible exposure limit (PEL) for ammonia in the workplace is 50 parts per million (ppm) over an 8-hour workday. 
-
- 
-
-WHO Air Quality Guidelines for SO2 
-
-10-Minute Mean: 
-
-                     WHO Guideline Value: 500 µg/m³ 
-
-24-Hour Mean: 
-
-                     WHO Guideline Value: 20 µg/m³ 
-
-The annual average according to our dataset is 6.3-10 µg/m³ which is ‘LOWER’ than the what is set  
-
-according to WHO. 
-
- 
-
- 
-
-WHO Air Quality Guidelines for CO 
-
-1-Hour Mean: 
-
-           WHO Guideline Value: 30 mg/m³ (milligrams per cubic meter) or 26 ppm (parts per million) 
-
-8-Hour Mean: 
-
-WHO Guideline Value: 10 mg/m³ or 9 ppm 
-
-The annual average according to our dataset is 0.7-1 mg/m³ which is ‘LOWER’ than the what is set according to WHO. 
-
- 
-
-WHO Air Quality Guidelines for Ozone 
-
-8-Hour Mean: 
-
-WHO Guideline Value: 100 µg/m³ (micrograms per cubic meter) or 50 ppb (parts per billion) 
-
-The annual average according to our dataset is 7-20 µg/m³ which is ‘LOWER’ than the what is set according to WHO. 
-
- 
-
-WHO Air Quality Guidelines for Benzene 
-
-Annual Mean: 
-
-           WHO Guideline Value: 5 µg/m³ (micrograms per cubic meter) 
-
- 
-
- Xylene: 
-
-The World Health Organization (WHO) does not provide specific air quality guidelines for xylene exposure. However, regulatory agencies in various countries may have established guidelines or standards for xylene concentrations in the air. 
-
-For example, in the United States, the Environmental Protection Agency (EPA) has set standards for total xylenes (mixture of o-xylene, m-xylene, and p-xylene). The EPA's National Ambient Air Quality Standard (NAAQS) for total xylenes is as follows: 
-
-Annual Mean: 
-
-Primary Standard: 0.53 ppm (parts per million) or 2000 µg/m³ (micrograms per cubic meter) as a 1-year average 
-
-The annual average of Xylene according to our dataset is 3.50 µg/m³  
-
- 
-
-INFORMATION ABOUT PM2.5 
-
-Air quality in megacities is a major concern for human health where a large portion of the population lives, and the pollution levels often exceed the limit values .  Among all pollutants, PM2.5 (particles less than 2.5 μm in diameter) poses a greater risk as it can penetrate deep into the human body . It has been estimated that exposure to outdoor PM2.5 is the fifth leading risk factor worldwide and the third leading risk factor in India . Globally, exposure to PM2.5 accounts for 4.2 million deaths and over 100 million disability-adjusted life-years in 2015. 
-
-WHAT REPORTS HAVE TO SAY? 
-
- The studies report winter to be the most polluted season for all the cities because of increased household emissions (Chowdhury et al., 2019; Guttikunda and Calori, 2013) and lower boundary layer (Sathyanadh et al., 2017). The lowest concentration was reported in the Indian summer monsoon season due to the wet scavenging of the particles by rain (Tiwari et al., 2013b). A well-developed morning and evening peaks were observed for Chennai and Hyderabad whereas for other cities, evening peak was shown to last longer. A study by Gurjar et al. (2016)  
-
-SOURCES OF PM2.5 
-
-Figure 1 
-
-Inorganic ions (NH4+, NO3–, SO42–), carbonaceous compounds, and mineral dust are the major constituents of ambient PM2.5 mass.  
-
-ABOUT PM10: 
-
-PM10 and PM2.5 often derive from different emissions sources, and also have different chemical compositions. Emissions from combustion of gasoline, oil, diesel fuel or wood produce much of the PM2.5 pollution found in outdoor air, as well as a significant proportion of PM10. PM10 also includes dust from construction sites, landfills and agriculture, wildfires and brush/waste burning, industrial sources, wind-blown dust from open lands, pollen and fragments of bacteria. 
-
- 
-
-particulate size comparison 
-
- PM2.5 is more likely to travel into and deposit on the surface of the deeper parts of the lung, while PM10 is more likely to deposit on the surfaces of the larger airways of the upper region of the lung. Particles deposited on the lung surface can induce tissue damage, and lung inflammation. 
-
- 
-
- 
-
-SOME OBSERVATIONS: 
-
- 1. The months from Jan to march i.e. winters have recorded the max value for both PM2.5 and PM10 
-
- 2. The lowest concentration has been noticed in the months of monsoons for PM2.5 and during the months of oct-dec for PM10. 
-
- 
-
-OBSERVATIONS FROM TIME-SERIES DATA: 
-
-1.The peaks have been observed for the starting week of September in case of rainfall and in Feb for PM2.5  
-
-2.Rainfall generally helps reduce PM2.5 concentrations by removing particles from the air through wet deposition. 
-
-3. Therefore, periods of higher rainfall usually correlate with lower PM2.5 levels. (this can be seen in the plot too, in the month of September, where the rainfall is high and the PM2.5 concentration is relatively lower.) 
-
-4. In dry seasons or periods, the lack of rain allows PM2.5 levels to build up, leading to higher concentrations. (This can be seen in the month of Feb where PM2.5 conc is high   and rainfall is negligible). 
-
- 
-
- 
+✅ Observation: Higher than WHO standard → indicates significant health risks.
+
+2.PM10 (Particulate Matter < 10 µm)
+WHO Guidelines:
+Annual Mean: 15 µg/m³
+24-Hour Mean: 45 µg/m³
+Dataset Average: 63.6 µg/m³
+
+✅ Observation: Higher than WHO standard.
+
+3.NO₂ (Nitrogen Dioxide)
+WHO Guidelines:
+Annual Mean: 10 µg/m³
+1-Hour Mean: 200 µg/m³
+Dataset Average: 6–10 µg/m³
+
+✅ Observation: Around the upper threshold, potentially exceeding WHO guidelines.
+
+4.NH₃ (Ammonia)
+WHO does not specify ambient guidelines.
+OSHA PEL (Workplace Standard): 50 ppm (8-hour exposure).
+
+5.SO₂ (Sulfur Dioxide)
+WHO Guidelines:
+10-Minute Mean: 500 µg/m³
+24-Hour Mean: 20 µg/m³
+Dataset Average: 6.3–10 µg/m³
+
+✅ Observation: Lower than WHO standard.
+
+6.CO (Carbon Monoxide)
+WHO Guidelines:
+1-Hour Mean: 30 mg/m³ (26 ppm)
+8-Hour Mean: 10 mg/m³ (9 ppm)
+Dataset Average: 0.7–1 mg/m³
+
+✅ Observation: Lower than WHO standard.
+
+7.Ozone (O₃)
+WHO Guidelines:
+8-Hour Mean: 100 µg/m³ (50 ppb)
+Dataset Average: 7–20 µg/m³
+
+✅ Observation: Lower than WHO standard.
+
+8.Xylene
+WHO Guidelines: Not explicitly defined.
+EPA NAAQS Standard: 0.53 ppm (2000 µg/m³ annual mean).
+Dataset Average: 3.50 µg/m³
+
+✅ Observation: Well below permissible levels.
+
+
+📌 Information on PM2.5
+Health Risk: PM2.5 poses the highest threat due to deep penetration into the lungs.
+
+Global Impact:
+4.2 million deaths annually attributed to PM2.5 exposure.
+100+ million DALYs (Disability-Adjusted Life Years) in 2015.
+India: PM2.5 is the 3rd leading health risk factor.
+
+📊 Seasonal & Temporal Trends
+
+Reports & Literature Insights
+Winter → Most polluted due to household emissions & lower boundary layers.
+Monsoon → Lowest pollution due to wet scavenging by rainfall.
+
+Diurnal Trends:
+Morning & evening peaks observed in Hyderabad & Chennai.
+In other cities, evening peaks lasted longer.
+
+Sources of PM2.5
+Inorganic ions: NH₄⁺, NO₃⁻, SO₄²⁻
+Carbonaceous compounds
+Mineral dust
+
+PM10 Characteristics
+Derived from:
+Combustion (gasoline, diesel, wood, oil)
+Construction dust, agriculture, landfills
+Wildfires & industrial emissions
+Pollen & bacteria fragments
+
+Deposition:
+PM2.5 → deeper lung regions
+PM10 → upper airways
+
+🔍 Observations
+General Trends
+Winter (Jan–Mar) → Peak concentrations of both PM2.5 & PM10.
+Monsoon → Lowest PM2.5 values.
+Oct–Dec → Lowest PM10 values.
+
+Time-Series Insights
+Rainfall peaks in September, correlating with lower PM2.5.
+February shows high PM2.5 due to negligible rainfall.
+Rainfall reduces PM2.5 via wet deposition.
+Dry periods → Accumulation of PM2.5 → higher concentrations.
+
+✅ Conclusion
+PM2.5 & PM10 consistently exceed WHO standards, highlighting major air quality challenges.
+Rainfall acts as a natural scrubber, lowering PM2.5 levels during monsoon.
+Seasonal and diurnal variations reveal patterns essential for predictive modeling and policy formulation.
