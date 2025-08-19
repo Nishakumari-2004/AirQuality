@@ -1,7 +1,41 @@
-# AirQuality
-Meteorological Data Analysis and Air Quality Compliance Modeling at IITH:
+# 🌏 Air Quality & Meteorological Data Analysis at IITH
 
-Data Collection and Preparation: Collected meteorological data of IITH from the CPCB website, implemented data preprocessing, and feature engineering.
-Data Visualization and Analysis: Used histograms to understand and compare variables, and analyzed the data.
-Model Development and Evaluation: Developed a neural network model to compare meteorological variables (rainfall, temperature, etc.) with PM2.5 and PM10 levels exceeding WMO/WHO standards, and evaluated its performance.
-Reporting: Prepared a report on PM2.5 and PM10 sources, their seasonal concentration changes with rainfall, and trend analysis.
+A data-driven project analyzing **meteorological factors and air quality compliance** at IIT Hyderabad using datasets from the **Central Pollution Control Board (CPCB)**.  
+The project investigates how weather parameters (rainfall, temperature, humidity, etc.) impact air pollutants like **PM2.5** and **PM10**, and benchmarks results against **WHO air quality standards**.
+
+---
+
+## ✨ Features
+
+- 📥 **Data Collection**  
+  - Scraped & compiled meteorological and air quality data from CPCB.  
+  - Managed missing values and anomalies in long-term data series.  
+
+- 🧹 **Preprocessing & Feature Engineering**  
+  - Data cleaning, normalization, and feature scaling.  
+  - Handling seasonal trends and anomaly detection.  
+
+- 📊 **Data Visualization & Analysis**  
+  - Histograms, scatter plots, and time-series analysis of PM concentrations.  
+  - Trend comparison with meteorological factors (temperature, rainfall, humidity).  
+
+- 🤖 **Model Development**  
+  - Built **Artificial Neural Network (ANN)** models to predict PM2.5/PM10 levels from meteorological variables.  
+  - Benchmarked model predictions against **WHO air quality thresholds**.  
+
+- 📈 **Results**  
+  - Identified strong correlation between **seasonal weather patterns** and pollutant concentrations.  
+  - ANN-based models provided high accuracy for pollution forecasting.  
+
+---
+
+## 🛠️ Tech Stack
+
+- [Python](https://www.python.org/)  
+- [NumPy](https://numpy.org/) – Numerical computing  
+- [Pandas](https://pandas.pydata.org/) – Data preprocessing  
+- [Matplotlib](https://matplotlib.org/) / [Seaborn](https://seaborn.pydata.org/) – Visualization  
+- [Scikit-learn](https://scikit-learn.org/) – Preprocessing & evaluation  
+- [TensorFlow](https://www.tensorflow.org/) / [Keras](https://keras.io/) – Neural network modeling  
+
+---
