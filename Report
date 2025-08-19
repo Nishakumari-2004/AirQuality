@@ -1,2 +1,181 @@
+REPORT: 
 
-https://1drv.ms/w/c/7e38ae5c1bd811e1/ES85tjQvBxZKtJsCIpldqN4BwR96qn4-J-Oys4QOa5idtw?e=jUlsgf
+ 
+
+The World Meteorological Organization (WMO) collaborates with various international organizations, including the World Health Organization (WHO), to set guidelines and standards for air quality, including permissible levels of different meteorological variables such as 'PM2.5 (µg/m³)'  ,'PM10 (µg/m³)' ,'NO (µg/m³)' ,'NO2 (µg/m³)' ,'NH3 (µg/m³)'  ,'SO2 (µg/m³)' ,'CO (mg/m³)' ,'Ozone (µg/m³)' ,'MP-Xylene (µg/m³)' ,'AT (°C)' ,'RH (%)' ,’NOx (ppb)’. 
+
+ 
+
+PM2.5 (particulate matter with a diameter of less than 2.5 micrometres) 
+
+WHO Air Quality Guidelines for PM2.5 
+
+Annual Mean: 
+
+WHO Guideline Value: 5 µg/m³ 
+
+24-Hour Mean: 
+
+WHO Guideline Value: 15 µg/m³ 
+
+The annual average according to our dataset is 35.21 µg/m³ which is higher than the what is set according to WHO. 
+
+ 
+
+PM10 (particulate matter with a diameter of 10 micrometres or less) 
+
+WHO Air Quality Guidelines for PM2.5 
+
+Annual Mean: 
+
+WHO Guideline Value: 15 µg/m³ 
+
+24-Hour Mean: 
+
+WHO Guideline Value: 45 µg/m³ 
+
+ 
+
+The annual average according to our dataset is 63.6 µg/m³ which is higher than the what is set according to WHO. 
+
+ 
+
+NO2 (Nitrogen Dioxide) 
+
+WHO Air Quality Guidelines for NO2 
+
+Annual Mean: 
+
+WHO Guideline Value: 10 µg/m³ 
+
+1 Hour Mean: 
+
+WHO Guideline Value: 200 µg/m³ 
+
+ 
+
+The annual average according to our dataset is 6-10 µg/m³ which is higher than the what is set according to WHO. 
+
+ 
+
+NH3 (Ammonia) 
+
+The WHO does not have specific guidelines for ambient ammonia concentrations in its air quality guidelines. 
+
+OSHA's (Occupational Safety and Health Administration (OSHA)) permissible exposure limit (PEL) for ammonia in the workplace is 50 parts per million (ppm) over an 8-hour workday. 
+
+ 
+
+WHO Air Quality Guidelines for SO2 
+
+10-Minute Mean: 
+
+                     WHO Guideline Value: 500 µg/m³ 
+
+24-Hour Mean: 
+
+                     WHO Guideline Value: 20 µg/m³ 
+
+The annual average according to our dataset is 6.3-10 µg/m³ which is ‘LOWER’ than the what is set  
+
+according to WHO. 
+
+ 
+
+ 
+
+WHO Air Quality Guidelines for CO 
+
+1-Hour Mean: 
+
+           WHO Guideline Value: 30 mg/m³ (milligrams per cubic meter) or 26 ppm (parts per million) 
+
+8-Hour Mean: 
+
+WHO Guideline Value: 10 mg/m³ or 9 ppm 
+
+The annual average according to our dataset is 0.7-1 mg/m³ which is ‘LOWER’ than the what is set according to WHO. 
+
+ 
+
+WHO Air Quality Guidelines for Ozone 
+
+8-Hour Mean: 
+
+WHO Guideline Value: 100 µg/m³ (micrograms per cubic meter) or 50 ppb (parts per billion) 
+
+The annual average according to our dataset is 7-20 µg/m³ which is ‘LOWER’ than the what is set according to WHO. 
+
+ 
+
+WHO Air Quality Guidelines for Benzene 
+
+Annual Mean: 
+
+           WHO Guideline Value: 5 µg/m³ (micrograms per cubic meter) 
+
+ 
+
+ Xylene: 
+
+The World Health Organization (WHO) does not provide specific air quality guidelines for xylene exposure. However, regulatory agencies in various countries may have established guidelines or standards for xylene concentrations in the air. 
+
+For example, in the United States, the Environmental Protection Agency (EPA) has set standards for total xylenes (mixture of o-xylene, m-xylene, and p-xylene). The EPA's National Ambient Air Quality Standard (NAAQS) for total xylenes is as follows: 
+
+Annual Mean: 
+
+Primary Standard: 0.53 ppm (parts per million) or 2000 µg/m³ (micrograms per cubic meter) as a 1-year average 
+
+The annual average of Xylene according to our dataset is 3.50 µg/m³  
+
+ 
+
+INFORMATION ABOUT PM2.5 
+
+Air quality in megacities is a major concern for human health where a large portion of the population lives, and the pollution levels often exceed the limit values .  Among all pollutants, PM2.5 (particles less than 2.5 μm in diameter) poses a greater risk as it can penetrate deep into the human body . It has been estimated that exposure to outdoor PM2.5 is the fifth leading risk factor worldwide and the third leading risk factor in India . Globally, exposure to PM2.5 accounts for 4.2 million deaths and over 100 million disability-adjusted life-years in 2015. 
+
+WHAT REPORTS HAVE TO SAY? 
+
+ The studies report winter to be the most polluted season for all the cities because of increased household emissions (Chowdhury et al., 2019; Guttikunda and Calori, 2013) and lower boundary layer (Sathyanadh et al., 2017). The lowest concentration was reported in the Indian summer monsoon season due to the wet scavenging of the particles by rain (Tiwari et al., 2013b). A well-developed morning and evening peaks were observed for Chennai and Hyderabad whereas for other cities, evening peak was shown to last longer. A study by Gurjar et al. (2016)  
+
+SOURCES OF PM2.5 
+
+Figure 1 
+
+Inorganic ions (NH4+, NO3–, SO42–), carbonaceous compounds, and mineral dust are the major constituents of ambient PM2.5 mass.  
+
+ABOUT PM10: 
+
+PM10 and PM2.5 often derive from different emissions sources, and also have different chemical compositions. Emissions from combustion of gasoline, oil, diesel fuel or wood produce much of the PM2.5 pollution found in outdoor air, as well as a significant proportion of PM10. PM10 also includes dust from construction sites, landfills and agriculture, wildfires and brush/waste burning, industrial sources, wind-blown dust from open lands, pollen and fragments of bacteria. 
+
+ 
+
+particulate size comparison 
+
+ PM2.5 is more likely to travel into and deposit on the surface of the deeper parts of the lung, while PM10 is more likely to deposit on the surfaces of the larger airways of the upper region of the lung. Particles deposited on the lung surface can induce tissue damage, and lung inflammation. 
+
+ 
+
+ 
+
+SOME OBSERVATIONS: 
+
+ 1. The months from Jan to march i.e. winters have recorded the max value for both PM2.5 and PM10 
+
+ 2. The lowest concentration has been noticed in the months of monsoons for PM2.5 and during the months of oct-dec for PM10. 
+
+ 
+
+OBSERVATIONS FROM TIME-SERIES DATA: 
+
+1.The peaks have been observed for the starting week of September in case of rainfall and in Feb for PM2.5  
+
+2.Rainfall generally helps reduce PM2.5 concentrations by removing particles from the air through wet deposition. 
+
+3. Therefore, periods of higher rainfall usually correlate with lower PM2.5 levels. (this can be seen in the plot too, in the month of September, where the rainfall is high and the PM2.5 concentration is relatively lower.) 
+
+4. In dry seasons or periods, the lack of rain allows PM2.5 levels to build up, leading to higher concentrations. (This can be seen in the month of Feb where PM2.5 conc is high   and rainfall is negligible). 
+
+ 
+
+ 
